@@ -1,3 +1,3 @@
 A simple To-Do list app buit using HTML, CSS, Javascript
 
-[https://thulithasahan.github.io/To-Do-List/](url)
+[To-Do List](https://thulithasahan.github.io/To-Do-List/)
